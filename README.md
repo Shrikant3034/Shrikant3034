@@ -1,254 +1,111 @@
 <div align="center">
 
-# 👋 Hello, I'm **Shrikant Sunil Pawar**
+# 👋 SHRIKANT SUNIL PAWAR
 
 ### Software Developer | Full Stack | Backend | Android | Web Developer
 
-Building real-world applications, scalable REST APIs, responsive web experiences and Android solutions.
+Building real-world applications, REST APIs, backend systems, web applications and Android solutions.
 
 <p>
-  <a href="https://github.com/Shrikant3034">
-    <img src="https://img.shields.io/badge/GitHub-Shrikant3034-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:shripawar004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://github.com/Shrikant3034">
+<img src="https://img.shields.io/badge/GitHub-Shrikant3034-181717?style=for-the-badge&logo=github">
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:shripawar004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
-📍 Pune, Maharashtra, India &nbsp;&nbsp; 🎓 B.Tech CSE &nbsp;&nbsp; 
+📍 Pune, Maharashtra, India • 🎓 B.Tech CSE • 💼 Software Developer Intern — Cyret Technologies
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering graduate** with hands-on experience in **Software Development, Full Stack Development, Backend Development, Android Development and Web Development**.
+Computer Science & Engineering graduate with hands-on experience in **Software Development, Full Stack Development, Backend Development, Android Development and Web Development**.
 
-I completed a **6-month Software Developer Internship at Cyret Technologies, Pune**, where I worked on web and Android applications, REST API integration, debugging, testing, performance optimization and Git/GitHub-based development.
+I completed a **6-month Software Developer Internship at Cyret Technologies, Pune**, working on web and Android applications, REST API integration, debugging, testing and performance optimization.
 
-I enjoy building **clean, maintainable and practical software solutions** using modern technologies.
-
----
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 💻 Languages
-
-- Java
-- Python
-- Kotlin
-- JavaScript
-- SQL
-- PHP
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🎨 Frontend
-
-- HTML
-- CSS
-- Bootstrap
-- React.js
-- JavaScript
-
-</td>
-
-<td width="25%" valign="top">
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- Django
-- Django REST
-- FastAPI
-- Flask
-
-</td>
-
-<td width="25%" valign="top">
-
-### 📱 Android
-
-- Kotlin
-- Java
-- XML
-- Android Studio
-- MVVM
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🗄️ Databases
-
-- MongoDB
-- MongoDB Atlas
-- MySQL
-- SQLite
-- Mongoose
-
-</td>
-
-<td valign="top">
-
-### 🔌 APIs
-
-- REST APIs
-- JSON
-- JWT
-- API Integration
-- Swagger/OpenAPI
-
-</td>
-
-<td valign="top">
-
-### 🚀 DevOps
-
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- Postman
-
-</td>
-
-<td valign="top">
-
-### 🧪 Testing
-
-- Pytest
-- Unit Testing
-- Debugging
-- Code Review
-- CI/CD
-
-</td>
-</tr>
-</table>
+I enjoy building clean, maintainable and practical software solutions.
 
 ---
 
-# 🎯 Professional Roles
+## 🎯 Professional Roles
 
-<table>
-<tr>
+| Role | Technologies |
+|---|---|
+| 💻 Software Developer | Java • Python • Git • SDLC |
+| 🌐 Full Stack Developer | React • Django • Node.js |
+| ⚙️ Backend Developer | FastAPI • Express.js • REST APIs |
+| 📱 Android Developer | Kotlin • Java • XML • MVVM |
+| 🖥️ Web Developer | HTML • CSS • JavaScript |
+| 🐍 Python Developer | Python • Flask • Django |
 
-<td align="center" width="20%">
+---
 
-### 💻
+## 🛠️ Tech Stack
 
-**Software Developer**
+### Languages
+Java • Python • Kotlin • JavaScript • SQL • PHP
 
-Java • Python • Git • SDLC
+### Frontend
+HTML • CSS • Bootstrap • React.js • JavaScript
 
-</td>
+### Backend
+Node.js • Express.js • Django • Django REST Framework • FastAPI • Flask
 
-<td align="center" width="20%">
+### Android
+Android Studio • Kotlin • Java • XML • Material Design • RecyclerView • MVVM
 
-### 🌐
+### Databases
+MongoDB • MongoDB Atlas • MySQL • SQLite • Mongoose
 
-**Full Stack Developer**
+### APIs
+REST APIs • JSON • JWT • Swagger/OpenAPI • API Integration
 
-React • Django • Node.js
+### Tools & DevOps
+Git • GitHub • GitHub Actions • Docker • Postman • VS Code
 
-</td>
-
-<td align="center" width="20%">
-
-### ⚙️
-
-**Backend Developer**
-
-FastAPI • Express • REST APIs
-
-</td>
-
-<td align="center" width="20%">
-
-### 📱
-
-**Android Developer**
-
-Kotlin • Java • MVVM
-
-</td>
-
-<td align="center" width="20%">
-
-### 🖥️
-
-**Web Developer**
-
-HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-</table>
+### Testing
+Pytest • Unit Testing • Debugging • Code Review • CI/CD • Agile • SDLC
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🔵 PagePulse — URL Audit REST API
 
-<td width="50%" valign="top">
-
-## 🔵 PagePulse
-
-### URL Audit REST API
-
-**Python • FastAPI • Pytest • Docker**
+**Python • FastAPI • Pytest • Docker • GitHub Actions**
 
 REST API for auditing website URLs.
 
-**Features**
-
-- HTTP status analysis
-- HTTPS availability
+- HTTP/HTTPS status analysis
 - Response-time analysis
 - URL validation
-- Response caching
-- Rate limiting
+- Caching and rate limiting
 - Request logging
 - Swagger/OpenAPI
 - Automated testing
-- Docker
-- GitHub Actions
+- Docker and CI
 
 **Impact:** 40% ↑ Audit Efficiency
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🟣 Real Estate Analysis Chatbot
 
-**Django • React • Pandas • Chart.js**
+**Python • Django • DRF • React • Pandas • Chart.js**
 
-Full-stack real estate data analysis application.
-
-**Features**
+Full-stack real estate analysis application.
 
 - Excel dataset upload
 - Locality detection
-- Property analysis
-- Price-trend queries
+- Property and price analysis
+- Chatbot-driven queries
 - Interactive charts
 - Filtered tables
 - CSV downloads
@@ -256,43 +113,30 @@ Full-stack real estate data analysis application.
 
 **Impact:** 60% ↑ Analysis Efficiency
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🟢 LeadFlow CRM Backend
 
-**Node.js • Express.js • MongoDB**
+**Node.js • Express.js • MongoDB Atlas • JWT**
 
 RESTful CRM backend for lead management.
 
-**Features**
-
-- User registration
+- User registration and login
 - JWT authentication
 - Bcrypt password hashing
 - Lead CRUD APIs
 - MongoDB Atlas
 - Mongoose
-- Lead lifecycle management
 
 **Impact:** 50% ↑ Lead Management Efficiency
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🔴 Android KYC Application
 
-**Kotlin • Android • XML • MVVM**
+**Kotlin • Android Studio • XML • MVVM**
 
-Digital banking KYC application.
-
-**Features**
+Digital banking KYC Android application.
 
 - Login
 - Customer search
@@ -305,21 +149,13 @@ Digital banking KYC application.
 
 **Impact:** 45% ↑ KYC Workflow Efficiency
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🟠 Fraud Detection Dashboard
 
-**Python • Flask • SQLite**
+**Python • Flask • SQLite • HTML • CSS**
 
 Banking transaction risk analysis dashboard.
-
-**Features**
 
 - Transaction risk analysis
 - Fraud classification
@@ -327,21 +163,16 @@ Banking transaction risk analysis dashboard.
 - Dynamic reports
 - Complaint registration
 - Complaint tracking
-- SQLite integration
 
 **Reported Impact:** 85% ↑ Detection Accuracy
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-## 🟡 AR Jewelry Try-On
+## 🟡 AR Jewelry Try-On System
 
 **AR.js • JavaScript • HTML • CSS**
 
 Interactive augmented reality jewelry visualization system.
-
-**Features**
 
 - Real-time jewelry visualization
 - AR-based experience
@@ -350,14 +181,9 @@ Interactive augmented reality jewelry visualization system.
 
 **Reported Impact:** 40% ↑ User Engagement
 
-</td>
-
-</tr>
-</table>
-
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 ## Software Developer Intern
 
@@ -365,81 +191,49 @@ Interactive augmented reality jewelry visualization system.
 
 **January 2026 – July 2026 | 6 Months**
 
-Worked on live business projects involving **Web Development, Android Development, Backend Development and REST API Integration**.
+Completed a 6-month Software Developer Internship involving:
 
-### Key Contributions
+- Web application development
+- Android application development
+- REST API integration
+- Backend development
+- Debugging and testing
+- Performance optimization
+- Git/GitHub version control
+- Agile development
+- SDLC practices
 
-- Developed web and Android application modules.
-- Integrated RESTful APIs and third-party services.
-- Worked with Java, Python, Node.js, Android Studio, HTML, CSS and JavaScript.
-- Developed Android modules using Java, Android Studio and XML.
-- Performed debugging, testing and performance optimization.
-- Used Git/GitHub for version control.
-- Participated in code reviews and Agile development.
-- Followed the Software Development Life Cycle.
+### Internship Results
 
-### 📈 Internship Impact
-
-<table>
-<tr>
-<td align="center">
-
-### 20%
-
-Application Performance
-
-</td>
-
-<td align="center">
-
-### 25%
-
-API Efficiency
-
-</td>
-
-<td align="center">
-
-### 15%
-
-Development Effort Reduced
-
-</td>
-
-<td align="center">
-
-### 20%
-
-UI Responsiveness
-
-</td>
-</tr>
-</table>
-
----
-
-# 📜 Certifications
-
-| Certification | Organization |
-|---|---|
-| Product Management & Agentic AI | IIT Patna |
-| Software Developer Internship | Cyret Technologies |
-| Java Programming | Certification |
-| Python Programming | Certification |
-| Git Training | Certification |
-| PHP & MySQL | Training |
+| Area | Result |
+|---|---:|
+| Application Performance | 20% improvement |
+| API Response Efficiency | 25% improvement |
+| Development Effort | 15% reduction |
+| UI Responsiveness | 20% improvement |
 
 ---
 
 # 🎓 Education
 
-### B.Tech — Computer Science & Engineering
+**B.Tech — Computer Science & Engineering**
 
-**MGM University, Chhatrapati Sambhajinagar**
+MGM University, Chhatrapati Sambhajinagar
 
 **2022 – 2026**
 
-**CGPA: 6.4**
+CGPA: **6.4**
+
+---
+
+# 📜 Certifications
+
+- Product Management & Agentic AI Certification — IIT Patna
+- 6-Month Software Developer Internship — Cyret Technologies
+- Java Programming Certification
+- Python Programming Certification
+- Git Training Certificate
+- PHP & MySQL Training
 
 ---
 
@@ -447,19 +241,9 @@ UI Responsiveness
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrikant3034&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Shrikant3034&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant3034&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shrikant3034&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant3034&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -467,25 +251,17 @@ UI Responsiveness
 
 # 🎯 Currently Focused On
 
-<table>
-<tr>
-
-<td align="center">🚀<br><b>Full Stack Development</b></td>
-
-<td align="center">⚙️<br><b>Backend Engineering</b></td>
-
-<td align="center">🔌<br><b>REST API Development</b></td>
-
-<td align="center">📱<br><b>Android Development</b></td>
-
-<td align="center">🌐<br><b>Web Development</b></td>
-
-</tr>
-</table>
+💻 Full Stack Development  
+⚙️ Backend Engineering  
+🔌 REST API Development  
+📱 Android Development  
+🌐 Web Development  
+🧪 Testing & Code Quality  
+🚀 Software Engineering
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -498,7 +274,7 @@ UI Responsiveness
 </a>
 
 <a href="mailto:shripawar004@gmail.com">
-<img src="https://img.shields.io/badge/Email-shripawar004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-shripawar004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -509,6 +285,6 @@ UI Responsiveness
 
 ### 💡 Build • Learn • Improve • Repeat
 
-**Thanks for visiting my GitHub profile! 🚀**
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
