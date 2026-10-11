@@ -5,8 +5,6 @@
 <br>
 <div align="center">
 
-# 👋 SHRIKANT SUNIL PAWAR
-
 <div align="center">
 
 ### Software Developer | Full Stack | Backend | Android | Web Developer
