@@ -19,7 +19,7 @@ Building real-world applications, REST APIs, backend systems and Android solutio
 <a href="https://github.com/Shrikant3034">
 <img src="https://img.shields.io/badge/GitHub-Shrikant3034-181717?style=for-the-badge&logo=github">
 </a>
-<a href="https://www.linkedin.com/in/shrikant-pawar-785b34379.com">
+<a href="https://www.linkedin.com/in/shrikant-pawar-785b34379/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:shripawar004@gmail.com">
