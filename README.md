@@ -7,9 +7,13 @@
 
 # 👋 SHRIKANT SUNIL PAWAR
 
+<div align="center">
+
 ### Software Developer | Full Stack | Backend | Android | Web Developer
 
-Building real-world applications, REST APIs, backend systems, web applications and Android solutions.
+Building real-world applications, REST APIs, backend systems and Android solutions.
+
+</div>
 
 <p>
 <a href="https://github.com/Shrikant3034">
